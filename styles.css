@@ -1,5 +1,5 @@
 
-body {background-color: rgb(182, 177, 166);
+body {background-color: rgb(78, 76, 72);
     padding: 30px;
     margin: 50px;
     opacity: 1;
@@ -10,67 +10,67 @@ picture {padding: 15px;
 }
 p.dashed {border-style: solid;}
 
-h1   {color: rgb(124, 124, 124);
+h1   {color: #dfdfdf;
     font-family: verdana;
     font-size: 300%; 
-    border: 5px solid rgb(173, 173, 173);
+    border: 5px solid #adadad;
     border-radius: 25px;
     padding: 30px;
     margin: 5px;
     text-align: center;
     border-style: solid;}
 
-h2   {color: rgb(124, 124, 124);
+h2   {color: #dfdfdf;
     padding: 5px;
     margin: 1px;
-    text-align: left;}
+    text-align: center;}
 
-h3   {color: rgb(124, 124, 124);
+h3   {color: #dfdfdf;
     padding: 30px;
     margin: 50px;}
 
-h4   {color: rgb(124, 124, 124);
+h4   {color: #dfdfdf;
     padding: 30px;
     margin: 50px;}
 
-h5   {color: rgb(124, 124, 124);
+h5   {color: #dfdfdf;
     padding: 30px;
     margin: 50px;}
 
-h6   {color: rgb(124, 124, 124);
+h6   {color: #dfdfdf;
     padding: 30px;
     margin: 50px;}
 
-p    {color: rgb(124, 124, 124);
+p    {color: #dfdfdf;
     font-family: verdana;
     font-size: 100%; 
     padding: 15px;
     margin: 1px;
-    text-align: left;}
+    text-align: center;}
 
-a   {color: rgb(65, 65, 65);
+a   {color: #dfdfdf;
     font-family: verdana;
     font-size: 100%;
     padding: 1px;
     margin: 15px;}
 
 img {  
-    border: 5px solid rgb(173, 173, 173);
+    border: 5px solid #adadad;
     border-radius: 25px;
     padding: 30px;
     margin: 50px;
     image-orientation: center;}
 
-nav {color: rgb(165, 165, 165);
+nav {color: #a5a5a5;
     font-family: verdana;
     font-size: 90%; 
-    border: 5px solid rgb(173, 173, 173);
+    border: 5px solid #adadad;
     border-radius: 25px;
     padding: 10px;
     margin: 10px;}
 
 
-address {color: rgb(124, 124, 124);
+address {color: #7c7c7c;
     font-family: verdana;
     font-size: 80%; 
     padding: 8px;
