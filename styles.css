@@ -73,7 +73,10 @@ nav {color: #a5a5a5;
     border: 5px solid #adadad;
     border-radius: 25px;
     padding: 10px;
-    margin: 10px;}
+    margin: 10px;
+    z-index: 3;
+    list-style-type: none;
+}
 
 
 address {color: #7c7c7c;
